@@ -1,6 +1,6 @@
 # MongoDB와 node.js를 활용한 cocktail 웹사이트 만들기
 
-[MongoDB 설치](/doc/001_mongodb_install.md)
+[MongoDB 설치와 실행, admin 계정 생성과 접속](/doc/001_mongodb_install.md)
 
 [MongoDB 데이터베이스 생성](/doc/002_mongodb_create_db.md)
 
