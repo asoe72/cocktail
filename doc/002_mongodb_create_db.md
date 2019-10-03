@@ -53,7 +53,9 @@ local     0.000GB
 
 MongoDB Compass Community를 실행하면 멋진 GUI로 데이터베이스들을 관리할 수 있다.
 
-![compass_login](/doc/images/compass_login.png)
+![compass_login1](images/compass_login.png)
+![compass_login2](/images/compass_login.png)
+![compass_login3](./images/compass_login.png)
 
 `connect` 버튼을 누르면, 좌측에 데이터베이스 `cocktail'이 보인다.
 
